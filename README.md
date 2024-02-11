@@ -5,7 +5,7 @@ How to play Tic_tac_toe.
 1) Start 3 Linux terminals.
 2) Compile the F4Server.c and the F4Client.c
 3) Run 1 server with: ./server dim1 dim2 token1 token2.
-   3.1) the max dim for the field is 15x15 but you can modify the code if you want a bigger matrix, the tokens must be different.
+3.1) the max dim for the field is 15x15 but you can modify the code if you want a bigger matrix, the tokens must be different.
 4)Run 2 server with:  ./client NameG1.
 5)keep playing until 1 client win.
 
