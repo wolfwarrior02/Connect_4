@@ -6,8 +6,8 @@ How to play Tic_tac_toe.
 2) Compile the F4Server.c and the F4Client.c
 3) Run 1 server with: ./server dim1 dim2 token1 token2.
 4) the max dim for the field is 15x15 but you can modify the code if you want a bigger matrix, the tokens must be different.
-5)Run 2 server with:  ./client NameG1.
-6)keep playing until 1 client win.
+5) Run 2 server with:  ./client NameG1.
+6) keep playing until 1 client win.
 
 If you want to play against the bot simply compile the bot , run a server , and then ran the client as: ./client name /*    ( "/*" this run the bot).
 
