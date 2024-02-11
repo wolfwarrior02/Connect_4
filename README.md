@@ -1,5 +1,5 @@
-# Tic_Tac_Toe
-Tic tac toe made with Linux Systems calls.
+# connect 4
+connect 4 made with Linux Systems calls.
 
 How to play Tic_tac_toe.
 1) Start 3 Linux terminals.
