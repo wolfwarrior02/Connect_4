@@ -1,0 +1,20 @@
+#!/bin/bash
+# Demo script showing the enhanced Connect 4 graphics
+
+echo "=== Connect 4 Enhanced Graphics Demo ==="
+echo ""
+echo "The original Connect 4 game has been enhanced with:"
+echo "1. Beautiful Unicode box-drawing characters for the game board"
+echo "2. Color-coded game pieces (Red ● for X, Blue ● for O)"
+echo "3. Enhanced game title and borders"  
+echo "4. Clear column numbering (header and footer)"
+echo "5. Improved user prompts and messages"
+echo "6. Enhanced error messages with icons"
+echo "7. Colorful game result displays"
+echo ""
+echo "To run the enhanced game:"
+echo "1. Start server: ./server 6 7 X O"
+echo "2. Start client: ./client PlayerName"
+echo "3. Start second client or bot: ./client Player2 OR ./bot"
+echo ""
+echo "The game now provides a much more user-friendly terminal interface!"
